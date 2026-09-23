@@ -1,0 +1,11 @@
+node_modules
+
+# Python-generated files
+__pycache__/
+
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
